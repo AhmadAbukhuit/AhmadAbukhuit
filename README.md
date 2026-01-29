@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on**<br>* Scalable MLOps pipelines<br>* Secure Network Architecture<br>* Full Stack Web Development<br><br>💬 **Ask me about**<br>**DevOps**, **MLOps**, **Web Development**, **Cybersecurity**, and **Networking**.<br><br>⚡ **Fun fact**<br>I speak fluent Python, YAML, and TCP/IP.
+🔭 **I’m currently working on**<br>* Scalable MLOps pipelines<br>* Secure Network Architecture<br>* Full Stack Web Development<br><br>💬 **Ask me about**<br>**DevOps**, **MLOps**, **Web Development**, **Cybersecurity**, and **Networking**.<br><br>⚡ **Fun fact**<br>I speak fluent Python, JavaScript, BashScript, YAML, and TCP/IP.
 
 
 # 💻 Tech Stack:
