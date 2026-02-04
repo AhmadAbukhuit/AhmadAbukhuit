@@ -21,10 +21,6 @@
 
 ### 🛠️ Tools, OS & Hardware
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmadAbukhuit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AhmadAbukhuit&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAbukhuit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
